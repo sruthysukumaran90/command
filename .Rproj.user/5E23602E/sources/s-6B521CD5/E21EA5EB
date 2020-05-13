@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1589340096474.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1762981059",
+    "id" : "E21EA5EB",
+    "lastKnownWriteTime" : 1589340138,
+    "last_content_update" : -2147483648,
+    "path" : "C:/Users/Sruthy_2/Desktop/command/commandline.R",
+    "project_path" : "commandline.R",
+    "properties" : {
+        "cursorPosition" : "0,17",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
